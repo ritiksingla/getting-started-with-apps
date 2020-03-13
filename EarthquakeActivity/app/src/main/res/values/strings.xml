@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EarthquakeActivity</string>
+    <string name="near_the">Near the</string>
+    <string name="no_earthquakes">No earthquakes found.</string>
+</resources>
